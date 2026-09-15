@@ -94,7 +94,7 @@ h2.center{text-align:center;}
 .hero-title{font-family:var(--display); font-weight:700; font-size:clamp(38px,6.4vw,84px); line-height:1.02; margin:10px 0 22px;}
 .hero-title .line{display:block; overflow:hidden;}
 .hero-title .accent em{font-style:normal; color:var(--lime);}
-.lede{max-width:520px; font-size:17px; line-height:1.65; color:#e8e2d3; margin:0 0 34px;}
+.lede{max-width:560px; font-size:clamp(20px,2.6vw,30px); line-height:1.45; color:#e8e2d3; margin:0 0 34px;}
 .hero-actions{display:flex; gap:14px; flex-wrap:wrap;}
 
 .scroll-cue{
